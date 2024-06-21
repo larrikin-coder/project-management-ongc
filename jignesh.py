@@ -1,0 +1,1 @@
+print("Shaurya is the best person alive on this planet")
